@@ -1,0 +1,44 @@
+.up{
+    background-color: #fff;
+    width: 50px;
+    height:50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 3px solid #7600FF;
+    position: fixed;
+    right: 2%;
+    bottom: 5%;
+
+    svg{
+        height: 50px;
+        width: 50px;
+    }
+}
+
+.section1{
+    height: 550px;
+    background-color: #ffefd2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    color: #7600FF;
+    font-weight: bold;
+}
+.section2{
+    height: 550px;
+    background-color: #d2ffda;
+}
+.section3{
+    height: 550px;
+    background-color: #fce1f2;
+}
+.section4{
+    height: 550px;
+    background-color: #e6ffd2;
+}
+.section5{
+    height: 550px;
+    background-color: #d2f1ff;
+}
